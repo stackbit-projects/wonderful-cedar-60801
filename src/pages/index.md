@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/plant3-lg.jpg
     background_image_opacity: 80
     content: >
       # Find a Hobby, create memories

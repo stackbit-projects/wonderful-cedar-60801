@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: ''
 order: 1
 section: Store
 template: category

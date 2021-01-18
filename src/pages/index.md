@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: >
-      # Hobby, create memories
+      # Find a Hobby, create memories
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
